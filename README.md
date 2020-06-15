@@ -1,3 +1,7 @@
+SIMPLE USE OF REDUX - REDUX THUNK, REDUX STORE DESIGN
+
+Simple project to learn Redux - course Modern React with Redux from Udemy
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
